@@ -11,4 +11,6 @@
 **a** - cкорость обучения
 
 Сравнение графиков, построенных с помощью самостоятельно подобранных коэффициентов theta0 и theta1 и найденных с помощью метода **polyfit** библиотеки numpy:
-![](https://github.com/Yalkinzsun/linear_regression/blob/master/img/plot.png)
+
+<img src = "https://github.com/Yalkinzsun/linear_regression/blob/master/img/plot.png" height = "600" />
+
