@@ -3,9 +3,9 @@
 Нахождение коэффицентов theta0 и theta1:
 
 
-![gradient_descen](https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/img/gradient_descent.png "Градиентный спуск")
+![gradient_descen](https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/images/gradient_descent.png "Градиентный спуск")
 
-<img src = "https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/img/gradient_descent.png" height = "200" />
+<img src = "https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/images/gradient_descent.png" height = "200" />
 
 где `h(x[i]) = theta0 + theta1 * x[i]`
 
