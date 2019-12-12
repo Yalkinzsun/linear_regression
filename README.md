@@ -2,10 +2,8 @@
 ### Градиентный спуск для линейной регрессии с одной переменной
 Нахождение коэффицентов theta0 и theta1:
 
-10
 ![gradient_descen](./images/gradient_descent.png "Градиентный спуск")
 
-<img src = "https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/images/gradient_descent.png" height = "200" />
 
 где `h(x[i]) = theta0 + theta1 * x[i]`
 
@@ -37,6 +35,7 @@ return theta_0, theta_1
 Сравнение графиков, построенных с помощью самостоятельно подобранных коэффициентов theta0 и theta1 и найденных с помощью метода **polyfit** библиотеки numpy:
 
 <img src = "https://github.com/Yalkinzsun/linear_regression/blob/master/img/plot.png" height = "600" />
+![plot](./images/plot.png)
 
 ### Линейная регрессия с несколькими переменными
 
@@ -94,8 +93,8 @@ print(f"Ср. кв. ошибка (5) составляет = {res5:.3f} на {100
 Для модели со степенью полинома 5 СКО уменьшилось незначительно => более оптимальной будет модель со степенью полинома 4
 
 **Получившийся график:**
-<img src = "https://github.com/Yalkinzsun/linear_regression/blob/master/img/plot2.png" height = "600" />
 
+![plot2](./images/plot2.png)
 
 **Предсказание значения целевого параметра при значениях x = list(range(744, 751)) для линейной регрессии (степень полинома 1) и для степени полинома 5**
 
@@ -125,3 +124,4 @@ print(f"Полином 5-ой степени: {new_th5_2}x^5 + {new_th4_2}x^4 + 
 ```
 Полином 1-ой степени: 989.025x + 2.596
 Полином 5-ой степени: -1.4855973472127424e-13x^5 + 5.548548750085388e-10x^4 + -0.000001x^3 + 0.000619x^2 + 2.364933x + 1023.573703
+```
