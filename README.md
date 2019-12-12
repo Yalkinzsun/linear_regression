@@ -34,7 +34,6 @@ return theta_0, theta_1
 ```
 Сравнение графиков, построенных с помощью самостоятельно подобранных коэффициентов theta0 и theta1 и найденных с помощью метода **polyfit** библиотеки numpy:
 
-<img src = "https://github.com/Yalkinzsun/linear_regression/blob/master/img/plot.png" height = "600" />
 ![plot](./images/plot.png)
 
 ### Линейная регрессия с несколькими переменными
