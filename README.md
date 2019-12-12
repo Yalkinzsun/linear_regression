@@ -2,8 +2,8 @@
 ### Градиентный спуск для линейной регрессии с одной переменной
 Нахождение коэффицентов theta0 и theta1:
 
-
-![gradient_descen](https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/images/gradient_descent.png "Градиентный спуск")
+10
+![gradient_descen](./images/gradient_descent.png "Градиентный спуск")
 
 <img src = "https://github.com/Yalkinzsun/linear_regression/blob/gh-pages/images/gradient_descent.png" height = "200" />
 
